@@ -1,0 +1,134 @@
+[
+  {
+    "address": "0x12d66f87a04a9e220743712ce6d9bb1b5616b8fc",
+    "type": "mixer",
+    "name": "Tornado.Cash: 0.1 ETH",
+    "label_source": "OFAC SDN List / Etherscan"
+  },
+  {
+    "address": "0x47ce0c6ed5b0ce3e364664697042889c557a425b",
+    "type": "mixer",
+    "name": "Tornado.Cash: 1 ETH",
+    "label_source": "OFAC SDN List / Etherscan"
+  },
+  {
+    "address": "0x910cbd523d972eb0a6f4cae4618ad62622b39dbf",
+    "type": "mixer",
+    "name": "Tornado.Cash: 10 ETH",
+    "label_source": "OFAC SDN List / Etherscan"
+  },
+  {
+    "address": "0xa160cdab22496093205572ca90dbb0ceca264537",
+    "type": "mixer",
+    "name": "Tornado.Cash: 100 ETH",
+    "label_source": "OFAC SDN List / Etherscan"
+  },
+  {
+    "address": "0xd4b88df4d29f5cedd6857912842cff3b20c8cfa3",
+    "type": "mixer",
+    "name": "Tornado.Cash: 100 DAI",
+    "label_source": "OFAC SDN List / Etherscan"
+  },
+  {
+    "address": "0xfd30c04f21c21709825b5c7738b961555dd59632",
+    "type": "mixer",
+    "name": "Tornado.Cash: 1,000 DAI",
+    "label_source": "OFAC SDN List / Etherscan"
+  },
+  {
+    "address": "0x07687e702b410fa43f4cb4af7fa09a0220420b4f",
+    "type": "mixer",
+    "name": "Tornado.Cash: 10,000 DAI",
+    "label_source": "OFAC SDN List / Etherscan"
+  },
+  {
+    "address": "0x23773e65ed146a45096b2ca82e5b85e78a525f9f",
+    "type": "mixer",
+    "name": "Tornado.Cash: 100,000 DAI",
+    "label_source": "OFAC SDN List / Etherscan"
+  },
+  {
+    "address": "0x22aaa7720dad532969ec73b3f5c2a08651760448",
+    "type": "mixer",
+    "name": "Tornado.Cash: 0.1 WBTC",
+    "label_source": "OFAC SDN List / Etherscan"
+  },
+  {
+    "address": "0x03893a7c7463271ad7d568dae4ab4e8683506096",
+    "type": "mixer",
+    "name": "Tornado.Cash: 1 WBTC",
+    "label_source": "OFAC SDN List / Etherscan"
+  },
+  {
+    "address": "0xca0840578f57fe71599d29375e16783424023357",
+    "type": "mixer",
+    "name": "Tornado.Cash: 10 WBTC",
+    "label_source": "OFAC SDN List / Etherscan"
+  },
+  {
+    "address": "0x169ad27a470d064dede56a2910f0ec48a470ab4b",
+    "type": "mixer",
+    "name": "Tornado.Cash: 100 USDC",
+    "label_source": "OFAC SDN List / Etherscan"
+  },
+  {
+    "address": "0x0836222f2b2b24a3f36f98668ed8f0b38d1a872f",
+    "type": "mixer",
+    "name": "Tornado.Cash: 1,000 USDC",
+    "label_source": "OFAC SDN List / Etherscan"
+  },
+  {
+    "address": "0x179f48c78f57a3a78f0608cc9197b8972921d1d2",
+    "type": "mixer",
+    "name": "Tornado.Cash: 100 USDT",
+    "label_source": "OFAC SDN List / Etherscan"
+  },
+  {
+    "address": "0x710b3303fb508a84f10793c1100e32532ddcf027",
+    "type": "mixer",
+    "name": "Tornado.Cash: 1,000 USDT",
+    "label_source": "OFAC SDN List / Etherscan"
+  },
+  {
+    "address": "0xd90e2f925da726b50c4ed8d0fb90ad053324f31b",
+    "type": "mixer",
+    "name": "Tornado.Cash: Router",
+    "label_source": "OFAC SDN List / Etherscan"
+  },
+  {
+    "address": "0xa0c68c638235ee32657e8f720a23cec1bfc77c77",
+    "type": "bridge",
+    "name": "Polygon (Matic): Bridge",
+    "label_source": "Etherscan Public Labels"
+  },
+  {
+    "address": "0x8484ef492635a03423289ec304e3c1cb5050f786",
+    "type": "bridge",
+    "name": "Polygon (Matic): Ether Predicate",
+    "label_source": "Etherscan Public Labels"
+  },
+  {
+    "address": "0x4dbd4fc535b259eb2b706434766fe030e704041b",
+    "type": "bridge",
+    "name": "Arbitrum: Delayed Inbox",
+    "label_source": "Etherscan Public Labels"
+  },
+  {
+    "address": "0x99c9fc46f92e8a1c0dec1b1747d01003e884be1e",
+    "type": "bridge",
+    "name": "Optimism: Gateway",
+    "label_source": "Etherscan Public Labels"
+  },
+  {
+    "address": "0x3ee18b2214e97002d543818e6981881667a53725",
+    "type": "bridge",
+    "name": "Wormhole: Token Bridge",
+    "label_source": "Etherscan Public Labels"
+  },
+  {
+    "address": "0x98f3c9e6e3fa02f37803d159239d836968037b42",
+    "type": "bridge",
+    "name": "Wormhole: Core Bridge",
+    "label_source": "Etherscan Public Labels"
+  }
+]

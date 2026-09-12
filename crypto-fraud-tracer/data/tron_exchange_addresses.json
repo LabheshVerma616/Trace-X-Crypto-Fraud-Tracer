@@ -1,0 +1,12 @@
+[
+  {
+    "address": "TDqSquXBgUCLYvYC4XZgrprLK589dkhSCf",
+    "exchange_name": "Binance",
+    "label_source": "Tronscan (Binance-Hot 7)"
+  },
+  {
+    "address": "TYDzsYUEpvnYmQk4zGP9sWWcTEd2MiAtW6",
+    "exchange_name": "FTX",
+    "label_source": "Tronscan"
+  }
+]
